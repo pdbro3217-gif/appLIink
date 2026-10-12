@@ -1,0 +1,13 @@
+{
+  "server_host": "0.0.0.0",
+  "server_port": 8765,
+  "pc_server_url": "ws://127.0.0.1:8765/ws",
+  "android_server_url": "ws://192.168.1.129:8765/ws",
+  "ftp_port": 2121,
+  "ftp_user": "user",
+  "ftp_password": "password",
+  "pc_ftp_root": "./ftp_root",
+  "android_download_path": "/storage/emulated/0/Download/Sync",
+  "use_ngrok": true,
+  "ngrok_token": "3D3w3UBQJIpuIzZUTxFp37xQdIe_3gaF19jWv1qLZtB7neyEX"
+}

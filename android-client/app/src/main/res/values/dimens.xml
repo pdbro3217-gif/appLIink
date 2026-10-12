@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="card_radius">22dp</dimen>
+    <dimen name="card_padding">18dp</dimen>
+    <dimen name="card_spacing">12dp</dimen>
+    <dimen name="switch_track_height">30dp</dimen>
+    <dimen name="switch_thumb_size">26dp</dimen>
+    <dimen name="switch_track_radius">15dp</dimen>
+    <dimen name="switch_min_width">52dp</dimen>
+</resources>

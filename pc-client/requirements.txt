@@ -1,0 +1,4 @@
+websockets
+pyperclip
+pyftpdlib
+zeroconf

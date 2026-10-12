@@ -1,0 +1,12 @@
+pyperclip
+uvicorn[standard]
+fastapi
+python-multipart
+pyftpdlib
+qrcode
+Pillow
+pystray
+win10toast
+psutil
+zeroconf
+pywin32

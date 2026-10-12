@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#F7F2EA</color>
+    <color name="card_connection">#FFE9D6</color>
+    <color name="card_orange">#FFE9D6</color>
+    <color name="card_green">#E2F5E6</color>
+    <color name="card_purple">#EDE8F7</color>
+    <color name="text_primary">#1D1D1F</color>
+    <color name="text_secondary">#86868B</color>
+    <color name="text_section">#6E6E73</color>
+    <color name="accent_orange">#FF9500</color>
+    <color name="accent_purple">#7B61FF</color>
+    <color name="accent_green">#34C759</color>
+    <color name="icon_circle_purple">#7B61FF</color>
+</resources>

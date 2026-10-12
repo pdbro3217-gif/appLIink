@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinkApp</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="main_control">Main control</string>
+    <string name="connected_to_pc">CONNECTED TO PC</string>
+    <string name="disconnected">DISCONNECTED</string>
+    <string name="connecting">CONNECTING…</string>
+    <string name="stable_network">Stable Local Network (%1$s)</string>
+    <string name="waiting_network">Waiting for connection…</string>
+    <string name="share_clipboard">SHARE CLIPBOARD</string>
+    <string name="ftp_file_access">FTP FILE ACCESS</string>
+    <string name="ftp_access_url">FTP Access %1$s</string>
+    <string name="ftp_start">Копировать URL</string>
+    <string name="ftp_stop">Остановить</string>
+    <string name="ftp_url_copied">Ссылка на FTP скопирована</string>
+    <string name="forward_notifications">FORWARD NOTIFICATIONS</string>
+    <string name="forward_notifications_desc">Уведомления и музыка с телефона на ПК</string>
+    <string name="server_setup">Server setup</string>
+    <string name="scan_pair_qr">Соединить (Сканировать QR)</string>
+    <string name="save_url">Сохранить</string>
+    <string name="manual_setup_toggle">Дополнительно (ввести IP вручную)</string>
+    <string name="manual_setup_title">Введите адрес сервера:</string>
+    <string name="server_url_hint">ws://192.168.1.100:8765/ws</string>
+    <string name="notify_coming_soon">Notification forwarding — coming soon</string>
+    <string name="url_required">Set server URL in settings first</string>
+    <string name="sync_to_pc">Sync to PC</string>
+<string name="clipboard_how_title">Как отправить буфер на ПК</string>
+    <string name="clipboard_hint_long">Android блокирует чтение буфера в фоне. Работает:\n\n• Кнопка в уведомлении LinkApp\n• Кнопка ниже «Отправить скопированное»\n• Меню «Поделиться» → LinkApp</string>
+<string name="clipboard_hint">Android не даёт читать буфер в фоне. После копирования нажмите «Отправить» в уведомлении или кнопку ниже.</string>
+    <string name="share_clipboard_desc">Синхронизация с ПК (отправка — через кнопку или уведомление)</string>
+    <string name="clipboard_send_now">Отправить скопированное</string>
+    <string name="clipboard_empty">Буфер обмена пуст</string>
+    <string name="clipboard_sent">Отправлено на ПК</string>
+    <string name="notification_send_clipboard">Отправить буфер</string>
+    <string name="clipboard_received_from_pc">Получено с ПК</string>
+    <string name="status_active">LinkApp активен</string>
+    <string name="notification_from_pc">Уведомления с ПК</string>
+    <string name="enable_notification_access">Пожалуйста, разрешите доступ к уведомлениям для пересылки</string>
+    <string name="pc_battery">Заряд ПК: %1$d%%</string>
+    <string name="remote_media">REMOTE MEDIA</string>
+    <string name="pc_system_control">PC SYSTEM CONTROL</string>
+</resources>

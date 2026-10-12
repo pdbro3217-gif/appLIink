@@ -1,0 +1,5 @@
+# Project exclude paths
+/android-client/.gradle/
+/android-client/app/build/
+/android-client/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/android-client/build/
